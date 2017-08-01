@@ -6,8 +6,8 @@ Source code for Arduino which runs a fan connected to it in two modes:
      switched ON/OFF and its speed can be varied.
 
 Sensors/Modules used with Arduino:
-  a. LM35 temperature sensor is used with Arduino to monitor room temperature.  
-  b. HC05 module is used with Arduino to enable Bluetooth Communication with Android app.
+a. LM35 temperature sensor is used with Arduino to monitor room temperature.
+b. HC05 module is used with Arduino to enable Bluetooth Communication with Android app.
 
 Android app to be used to send commands: ARDUINO BLUETOOTH CONTROLLER 
 PlayStore link: https://play.google.com/store/apps/details?id=com.giumig.apps.bluetoothserialmonitor
@@ -22,9 +22,9 @@ Commands to be entered on app:
   d.  '3' : fan speed 3
   e.  '4' : fan speed 4
   f.  '5' : fan speed 5
-    
- Detailed info about the project  : Arduino-fan-control.pptx
- Source code about the project    : fan.ino 
+  
+  Detailed info about the project  : Arduino-fan-control.pptx
+  Source code about the project    : fan.ino 
     
 
 
