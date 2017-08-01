@@ -16,12 +16,12 @@ Commands to be entered on app:
   1. 'a' : Automatic mode
   2. 'b' : Manual Mode
   3.  In Manual Mode:
-    a.  '0' : fan speed 0
-    b.  '1' : fan speed 1
-    c.  '2' : fan speed 2
-    d.  '3' : fan speed 3
-    e.  '4' : fan speed 4
-    f.  '5' : fan speed 5
+  a.  '0' : fan speed 0
+  b.  '1' : fan speed 1
+  c.  '2' : fan speed 2
+  d.  '3' : fan speed 3
+  e.  '4' : fan speed 4
+  f.  '5' : fan speed 5
     
  Detailed info about the project  : Arduino-fan-control.pptx
  Source code about the project    : fan.ino 
