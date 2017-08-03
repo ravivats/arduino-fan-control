@@ -1,9 +1,8 @@
 # arduino-fan-control
 
 Source code for Arduino which runs a fan connected to it in two modes:
-  a. Automatic: Fan speed depends on room temperature. As room temperature increases, fan speed increases.
-  b. Manual: Fan speed can be controlled with Android app using Bluetooth communication. By sending specific data to arduino, fan can be 
-     switched ON/OFF and its speed can be varied.
+a. Automatic: Fan speed depends on room temperature. As room temperature increases, fan speed increases.
+b. Manual: Fan speed can be controlled with Android app using Bluetooth communication. By sending specific data to arduino, fan can be switched ON/OFF and its speed can be varied.
 
 Sensors/Modules used with Arduino:
 a. LM35 temperature sensor is used with Arduino to monitor room temperature.
