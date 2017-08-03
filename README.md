@@ -22,6 +22,7 @@ d.  '3' : fan speed 3
 e.  '4' : fan speed 4
 f.  '5' : fan speed 5
 
-  
+Detailed info about the project  : Arduino-fan-control.pptx
+Source code about the project    : fan.ino  
 
 
