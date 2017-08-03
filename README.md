@@ -14,6 +14,6 @@ PlayStore link: https://play.google.com/store/apps/details?id=com.giumig.apps.bl
 
 Commands to be entered on app:
 1. 'a' : Automatic mode
-    
+2. 'b' : Manual Mode    
 
 
